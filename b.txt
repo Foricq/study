@@ -4,4 +4,8 @@ wohenhao.
 =======
 Fine, thinks! How about you.
 >>>>>>> e1ffdde66b73f044c06639ecc2f650789076f77f
+<<<<<<< HEAD
 master
+=======
+dev
+>>>>>>> dev
