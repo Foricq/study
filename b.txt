@@ -8,5 +8,9 @@ Fine, thinks! How about you.
 master
 =======
 dev
+<<<<<<< HEAD
 >>>>>>> dev
 I am exceited.
+=======
+I feel very tired。
+>>>>>>> dev
